@@ -8,7 +8,7 @@ Engineering students often struggle to decide what to build or choose projects t
 ## Tech Stack
 * **Backend:** FastAPI (Python)
 * **Frontend:** Streamlit
-* **LLM Integration
+* **LLM Integration**
 
 
 ## Features
