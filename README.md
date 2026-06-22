@@ -8,8 +8,7 @@ Engineering students often struggle to decide what to build or choose projects t
 ## Tech Stack
 * **Backend:** FastAPI (Python)
 * **Frontend:** Streamlit
-* **LLM Integration**
-
+* **LLM Integration:** OpenAI / Google Gemini
 
 ## Features
 * **User Input Interface:** To collect skill level, preferred domain, and career goals.
@@ -30,4 +29,4 @@ Engineering students often struggle to decide what to build or choose projects t
 Users have a basic understanding of their own career interests.
 
 ---
-**Last Updated:** June 21, 2026
+**Last Updated:** June 22, 2026
