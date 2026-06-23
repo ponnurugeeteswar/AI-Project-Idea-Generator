@@ -26,7 +26,7 @@ Engineering students often struggle to decide what to build or choose projects t
 *(To be added during build phase)*
 
 ## Assumptions
-Users have a basic understanding of their own career interests.
+Users have a basic understanding of their own career interests and goals.
 
 ---
 **Last Updated:** June 22, 2026
